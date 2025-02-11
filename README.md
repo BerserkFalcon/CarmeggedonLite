@@ -13,3 +13,5 @@ Upon startup you will be asked to create a vehicle or select from existing ones.
 You can navigate using the 'arrow keys' and make choices using the 'enter' key.
 Following the on screen prompt(s) will allow you to interact with all available content
 When you are done you can select 'exit' from the selection screen, or hit Ctrl+c to exit the program at anytime
+
+Video Walkthrough Link: https://watch.screencastify.com/v/CDg6uqaHzjXUOxDzvjYo
